@@ -9,41 +9,21 @@
   <br />
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Saffron &amp; Sage - Artisan Kitchen &amp; Botanical Bar</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  Saffron &amp; Sage is a fully responsive luxury restaurant website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+![Saffron & Sage Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
+To run **Saffron & Sage** locally, copy the repository files and open `index.html` in your browser.
 
 ### Contact
 
